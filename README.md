@@ -13,6 +13,13 @@ It is simple browser. It allows to:
 * go to homepage
 * save/load html file
 
+## Requirements
+
+To run browser you need to meet following requirements:
+
+* Python > 3.6
+* PyQt5 installed
+
 ## Other licenses:
 
 Icons used in the application are by [Yusuke Kamiyaman](http://p.yusukekamiyamane.com/).
